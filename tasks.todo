@@ -1,0 +1,15 @@
+Passos 
+
+✔ Iniciar projeto com yarn @done(21-03-20 11:30)
+✔ Instalar dependências @done(21-03-20 11:33)
+ - Typescript 
+ - Jest 
+ - ts-jest 
+ - @types/jest 
+ - @tyeps/node 
+✔ Criar nossa classe abstrata entity @done(21-03-20 14:00)
+✔ Criar interface de usuário @done(21-03-20 14:00)
+✔ Criar classe usuário @done(21-03-20 14:00)
+✔ Criar classe specification @done(21-03-20 15:32)
+✔ Criar classe de sintomar specification @done(21-03-20 15:32)
+✔ Criar testes @done(21-03-20 15:32)
