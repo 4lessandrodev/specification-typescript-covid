@@ -1,5 +1,11 @@
 ## SPECIFICATION PATTERN
 
+Este repositório é parte da série de vídeo que disponibilizei em uma playlist no youtube
+
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLUxrX6EvA-2ZgcW_s_oUAAAWOp3GVrjhB)
+
+![Youtube](https://56e9af4bb89f1d73465cbd39.static-01.com/f/images/200c7825172132d622dc020407f2ddb9db060741.gif "Youtube")
+
 > Reaproveitamento de código
 > Regra de negócio multável ou dinâmica
 > Muitas condicionais
